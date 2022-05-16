@@ -5,5 +5,6 @@ public class Test {
         System.out.println("Exam");
         System.out.println("Subject");
         System.out.println("Result");
+        System.out.println("percentage");
     }
 }
