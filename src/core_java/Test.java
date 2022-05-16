@@ -8,5 +8,6 @@ public class Test {
         System.out.println("percentage");
         System.out.println("harsh singh");
         System.out.println("raghav baghel");
+        System.out.println("electrical");
     }
 }
